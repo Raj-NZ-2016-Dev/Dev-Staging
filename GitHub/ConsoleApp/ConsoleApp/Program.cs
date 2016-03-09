@@ -10,7 +10,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Welcome !");
+            //write to console
+            System.Console.WriteLine("Welcome !"); 
         }
     }
 }
